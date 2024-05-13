@@ -33,6 +33,23 @@
     text-align: center;
     padding-left: 30px;
 }
+.options {
+    height: 40px;
+    width: 100%;
+    border-bottom: 1px solid #dddddd;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin-bottom: 10px;
+    border: none;
+    text-transform: capitalize;
+    font-size: 14px;
+
+}
+.options div {
+    margin-left: 20px;
+    margin-right: 20px;
+}
 
 .places article div.price_by_night {
 

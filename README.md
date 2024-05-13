@@ -34,7 +34,7 @@ cd cd airbnb-clone
 
 
 3. Run the console run or  the html using visual code :
-### 8.indexhtml
+### 8.index.html
 
 
 ## ./console.py
