@@ -33,8 +33,8 @@ The command interpreter provides the following functionalities:
 cd cd airbnb-clone
 
 
-3. Run the console run or  the html using visual code :
-### 8.index.html
+3. Run the console run  :
+
 
 
 ## ./console.py
